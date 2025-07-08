@@ -1,5 +1,5 @@
 ##################
-How to Activate Your Device with Xfinity
+"Step-by-Step Guide to Activating Your Device on Xfinity"
 ##################
 
 .. meta::
